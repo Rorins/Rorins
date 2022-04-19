@@ -17,6 +17,8 @@ I'm a Bootcamp Grad and Fullstack Developer.<img src="https://media.giphy.com/me
 
 I love how coding is so immense, creative, fun and engaging. There is always something new to learn!
 
+Coding is the future. <img src="https://media.giphy.com/media/ZZkCo8zKWtt2ZgozfX/giphy.gif" width="40">
+
 <h2 font-weight="bold"> My skills</h2>
 
 - Feel free to check my code, some are still in construction but I always think of ways to improve my projects.
