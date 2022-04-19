@@ -7,13 +7,17 @@
 </div>
 
 <h1 align="center">
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<h2 font-weight="bold"> Who am I </h2>
 
 I'm a Bootcamp Grad and Fullstack Developer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 I love how coding is so immense, creative, fun and engaging. There is always something new to learn!
+
+<h2 font-weight="bold"> My skills</h2>
 
 - Feel free to check my code, some are still in construction but I always think of ways to improve my projects.
 
