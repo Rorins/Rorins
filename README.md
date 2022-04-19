@@ -15,7 +15,7 @@
 
 I'm a Bootcamp Grad and Fullstack Developer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I love how coding is so immense, creative, fun and engaging. There is always something new to learn!
+I love how coding is so immense, creative, fun and challenging. There is always something new to learn!
 
 Coding is the future. <img src="https://media.giphy.com/media/ZZkCo8zKWtt2ZgozfX/giphy.gif" width="40">
 
