@@ -13,7 +13,7 @@
 
 <h2 font-weight="bold"> Who am I </h2>
 
-I'm a Bootcamp Grad and Fullstack Developer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a Fullstack Developer mostly focused on Frontend.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 I love how coding is so immense, creative, fun and challenging. There is always something new to learn!
 
